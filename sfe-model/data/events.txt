@@ -1,0 +1,4 @@
+year	plot_id	disturbance_type	intensity
+1954	0	Fire	1.0
+1954	1	Fire	1.0
+1954	2	Fire	1.0

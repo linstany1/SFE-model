@@ -1,0 +1,4 @@
+plot_id	plot_name	climate_id	region_group	elevation	latitude	WHC	slope	aspect
+0	sw1	0	SW	3885	29.7	150	600	278
+1	sw2	1	SW	3843	29.7	140	600	280
+2	sw3	2	SW	3782	29.7	145	600	280
