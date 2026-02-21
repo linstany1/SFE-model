@@ -1,0 +1,4 @@
+year_idx,plot_id,plot_name,disturbance_type,severity,trees_killed,saplings_killed,biomass_removed
+554,0,"SW1","Fire",1.000,67,0,696991.397
+554,1,"SW2","Fire",1.000,15,605,134992.647
+554,2,"SW3","Fire",1.000,52,273,197193.705

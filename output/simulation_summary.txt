@@ -1,0 +1,27 @@
+SFE-Model Simulation Summary
+============================
+
+Total simulation years: 620
+Number of plots: 3
+
+Plot 0 (SW1):
+  Adult trees: 420
+  Saplings: 0
+  LAI: 11.96
+  Crown cover: 1.00
+  Fire recovery: Yes
+
+Plot 1 (SW2):
+  Adult trees: 123
+  Saplings: 169
+  LAI: 6.95
+  Crown cover: 1.00
+  Fire recovery: Yes
+
+Plot 2 (SW3):
+  Adult trees: 422
+  Saplings: 752
+  LAI: 5.32
+  Crown cover: 1.00
+  Fire recovery: Yes
+
