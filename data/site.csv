@@ -1,0 +1,4 @@
+plot_id,plot_name,region_group,climate_id,elevation,WHC_total
+0,SW1,LL,0,3885,500
+1,SW2,LL,1,3843,500
+2,SW3,LL,2,3782,500
